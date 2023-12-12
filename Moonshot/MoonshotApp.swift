@@ -1,9 +1,4 @@
-//
-//  MoonshotApp.swift
-//  Moonshot
-//
-//  Created by JOY JAIN on 09/12/23.
-//
+
 
 import SwiftUI
 
